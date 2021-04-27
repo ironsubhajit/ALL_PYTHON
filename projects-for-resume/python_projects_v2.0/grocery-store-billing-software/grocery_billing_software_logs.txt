@@ -1,0 +1,10 @@
+21-01-2021 21:07:01 INFO     [app.py : 22] Set BackGround color of App Window
+21-01-2021 21:07:01 INFO     [app.py : 26] stops resizing app window
+21-01-2021 22:16:48 INFO     [app.py : 22] Set BackGround color of App Window
+21-01-2021 22:16:48 INFO     [app.py : 26] stops resizing app window
+21-01-2021 22:26:56 INFO     [app.py : 22] Set BackGround color of App Window
+21-01-2021 22:26:56 INFO     [app.py : 26] stops resizing app window
+21-01-2021 22:36:54 INFO     [app.py : 22] Set BackGround color of App Window
+21-01-2021 22:36:54 INFO     [app.py : 26] stops resizing app window
+21-01-2021 23:34:41 INFO     [app.py : 22] Set BackGround color of App Window
+21-01-2021 23:34:41 INFO     [app.py : 26] stops resizing app window
