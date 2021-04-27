@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM/.idea/GUI_PROGRAM.iml" filepath="$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM/.idea/GUI_PROGRAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../HACKERRANK_PYTHON/.idea/HACKERRANK_PYTHON.iml" filepath="$PROJECT_DIR$/../../HACKERRANK_PYTHON/.idea/HACKERRANK_PYTHON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../PYTHON_Udemy_course/.idea/PYTHON_Udemy_course.iml" filepath="$PROJECT_DIR$/../../../PYTHON_Udemy_course/.idea/PYTHON_Udemy_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytube.iml" filepath="$PROJECT_DIR$/.idea/pytube.iml" />
+    </modules>
+  </component>
+</project>

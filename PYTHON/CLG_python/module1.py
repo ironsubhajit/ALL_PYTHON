@@ -1,0 +1,13 @@
+import datetime
+d=datetime.datetime.today()
+print(d)
+print('Year:',d.year)
+print('Month:',d.month)
+print('Weekday:',d.weekday())
+print('Day:',d.day)
+print('Day no. of week: ',d.strftime("%A"))
+print('Week no. of year: ',d.strftime("%W"))
+print('Day no. of year: ',d.strftime("%y"))
+print('Month of year: ',d.strftime("%B"))
+print('Day no. of month: ',d.strftime("%d"))
+print('Weekday no. of week: ',d.strftime("%w"))

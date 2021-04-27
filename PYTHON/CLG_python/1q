@@ -1,0 +1,15 @@
+import random
+l=[]
+s=[]
+n=int(input("Enter no. of item in list: "))
+for i in range(n):
+        x=random.randint(1,100)
+        l.append(x)
+print("Before Removal:",l)
+l.sort()
+for i in range(n+1):
+	k=i+1
+	if(l[i]==l[k]):
+		l.remove(l[i+1])
+	s.append(l)
+print(s)

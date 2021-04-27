@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4378b5cb-773e-4f14-a740-3ea4c4ae983d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z45RwiJDpHtp1fmvwB6t8Yi2iU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HACKERRANK_PYTHON" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.RaiseAnError">
+    <configuration name="RaiseAnError" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_Udemy_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/FILE_HANDELING" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/FILE_HANDELING/RaiseAnError.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI_PROGRAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM/TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GUI_PROGRAM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PYTHON_Udemy_course/GUI_PROGRAM/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="no idea!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HACKERRANK_PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../HACKERRANK_PYTHON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../HACKERRANK_PYTHON/no idea!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utube_video_downld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytube" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utube_video_downld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RaiseAnError" />
+        <item itemvalue="Python.no idea!" />
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.utube_video_downld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4378b5cb-773e-4f14-a740-3ea4c4ae983d" name="Default Changelist" comment="" />
+      <created>1584085521178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584085521178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="38" key="#Notifications" timestamp="1584086097865">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="302" y="38" key="#Notifications/0.0.1418.759@0.0.1418.759" timestamp="1584086097865" />
+    <state x="460" y="216" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584105309862">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="460" y="216" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1418.759@0.0.1418.759" timestamp="1584105309862" />
+    <state x="489" y="134" key="FileChooserDialogImpl" timestamp="1584179322525">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="489" y="134" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1584179322525" />
+    <state width="1396" height="235" key="GridCell.Tab.0.bottom" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.0.bottom/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585201806125" />
+    <state width="685" height="201" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1584287899801" />
+    <state width="1396" height="235" key="GridCell.Tab.0.center" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.0.center/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="201" key="GridCell.Tab.0.center/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585201806124" />
+    <state width="685" height="201" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1584287899801" />
+    <state width="1396" height="235" key="GridCell.Tab.0.left" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.0.left/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="201" key="GridCell.Tab.0.left/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585201806124" />
+    <state width="685" height="201" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1584287899801" />
+    <state width="1396" height="235" key="GridCell.Tab.0.right" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.0.right/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="201" key="GridCell.Tab.0.right/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585201806125" />
+    <state width="685" height="201" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1584287899801" />
+    <state width="1396" height="235" key="GridCell.Tab.1.bottom" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.1.bottom/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="235" key="GridCell.Tab.1.bottom/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585200565206" />
+    <state width="687" height="233" key="GridCell.Tab.1.bottom/0.0.1418.759@0.0.1418.759" timestamp="1584185684224" />
+    <state width="1396" height="235" key="GridCell.Tab.1.center" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.1.center/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="235" key="GridCell.Tab.1.center/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585200565206" />
+    <state width="687" height="233" key="GridCell.Tab.1.center/0.0.1418.759@0.0.1418.759" timestamp="1584185684224" />
+    <state width="1396" height="235" key="GridCell.Tab.1.left" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.1.left/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="235" key="GridCell.Tab.1.left/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585200565206" />
+    <state width="687" height="233" key="GridCell.Tab.1.left/0.0.1418.759@0.0.1418.759" timestamp="1584185684224" />
+    <state width="1396" height="235" key="GridCell.Tab.1.right" timestamp="1585202145662">
+      <screen x="-1366" y="0" width="1009" height="528" />
+    </state>
+    <state width="1396" height="235" key="GridCell.Tab.1.right/0.0.1418.759/-1366.0.1009.528@-1366.0.1009.528" timestamp="1585202145662" />
+    <state width="1396" height="235" key="GridCell.Tab.1.right/0.0.1418.759/-1366.0.1009.528@0.0.1418.759" timestamp="1585200565206" />
+    <state width="687" height="233" key="GridCell.Tab.1.right/0.0.1418.759@0.0.1418.759" timestamp="1584185684224" />
+    <state x="218" y="22" key="SettingsEditor" timestamp="1584105798041">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="218" y="22" key="SettingsEditor/0.0.1418.759@0.0.1418.759" timestamp="1584105798041" />
+    <state x="408" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1584085558611">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="408" y="204" key="com.intellij.ide.util.TipDialog/0.0.1418.759@0.0.1418.759" timestamp="1584085558611" />
+    <state x="-1696" y="80" key="search.everywhere.popup" timestamp="1585373016721">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="-1696" y="80" key="search.everywhere.popup/0.0.1418.759@0.0.1418.759" timestamp="1585373016721" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utube_video_downld.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../HACKERRANK_PYTHON/no idea!.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
