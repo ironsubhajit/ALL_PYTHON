@@ -1,6 +1,9 @@
 # Content:  
 ---
 1. [IP Address Checker](https://github.com/ironsubhajit/ALL_PYTHON/blob/main/CB_CompetativeProgramming/Hackerrank_prog_sol_hint/ipAddCheck.py)  
+2. [Find Duplicate Elements](https://github.com/ironsubhajit/ALL_PYTHON/blob/main/CB_CompetativeProgramming/Hackerrank_prog_sol_hint/findDuplicateInArray.py)
+3. [re.start() & re.end()](https://github.com/ironsubhajit/ALL_PYTHON/blob/main/CB_CompetativeProgramming/Hackerrank_prog_sol_hint/regex.py)
+4. [Default Arguments](https://github.com/ironsubhajit/ALL_PYTHON/blob/main/CB_CompetativeProgramming/Hackerrank_prog_sol_hint/default_args.py)
 
 # Question Descriptions:  
 ---
